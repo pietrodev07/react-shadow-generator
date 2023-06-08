@@ -1,10 +1,12 @@
+import Header from './components/Header/Header'
+
 const App = () => {
 
   return (
 
     <div className="app">
 
-      <h1>REACT SHADOW GENERATOR</h1>
+      <Header />
 
     </div>
 

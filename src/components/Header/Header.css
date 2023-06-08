@@ -1,0 +1,12 @@
+.header {
+  height: 70px;
+  background-color: #1c1c1c;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.header .title {
+  color: #3399FF;
+  text-transform: uppercase;
+}
