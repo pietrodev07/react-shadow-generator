@@ -1,0 +1,18 @@
+.color {
+  width: 100%;
+  padding: 50px;
+  border: 2px solid #00000071;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+.color.shade {
+  color: #ffffffdd;
+}
+
+.color.tint {
+  color: #1c1c1c;
+}
