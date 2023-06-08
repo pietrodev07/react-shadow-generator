@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  color: #ffffffdd;
+  background-color: #242424;
+  word-wrap: break-word;
+  margin-bottom: 50px;
+}
+
+.app {
+  transition: all 0.2s ease-in-out;
+}
